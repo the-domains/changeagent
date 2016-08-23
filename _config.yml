@@ -1,0 +1,14 @@
+layout_spectrum: 0.6417664145119488
+typography_spectrum: 0.05011851713061333
+color:
+  brandStrength: 0.6573944541160017
+  lightness: 0.8349791206419468
+  saturation: 0.8016681664157659
+  rhythmicContrast: 0.2723776367492974
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: ChangeAgent
